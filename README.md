@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m Shashaank — a Software Engineer with 5+ years of experience building full-stack applications, ML models, and Pega-based workflow systems. My technical toolkit includes Python, JavaScript, Three.js, SQL, PyTorch, REST APIs, and diffusion models. I’m currently working on AI projects and learning new stuff about it. I’m looking for opportunities to work on innovative engineering teams focused on AI, full-stack development, or scalable backend systems.<br>I use dark mode for everything like everything. I am obsessed with it.  
+I’m Shashaank — a Software Engineer with 3+ years of experience building full-stack applications, ML models, and Pega-based workflow systems. My technical toolkit includes Python, JavaScript, Three.js, SQL, PyTorch, REST APIs, and diffusion models. I’m currently working on AI projects and learning new stuff about it. I’m looking for opportunities to work on innovative engineering teams focused on AI, full-stack development, or scalable backend systems.<br>I use dark mode for everything like everything. I am obsessed with it.  
 
 
 ## 🌐 Socials:
